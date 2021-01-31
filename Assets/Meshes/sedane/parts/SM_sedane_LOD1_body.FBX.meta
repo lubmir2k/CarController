@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 683d87e1f16cfa74191bb611c62963b4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: MI_CarPaint_10_Red
+    2100002: MI_Metal_Anodized_01_Bright
+    2100004: MI_Black_Plastic
+    2100006: MI_Car_Bottom
+    2100008: MI_Glass
+    2100010: MI_Reflector_Grey
+    2100012: MI_Reflector_RED
+    2100014: MI_Reflector_Orange
+    2100016: MI_Reflector_RED_Translucent
+    2100018: MI_Glass_Lights
+    2100020: MI_Icon
+    2100022: MI_Alcantara_Black
+    2100024: MI_Leather_02_Black_Dark
+    2100026: MI_Leather_07_Tan_Red
+    2100028: MI_Car_Panels
+    2100030: MI_mirror
+    2100032: MI_Metal_Anodized_01_Dark
+    2100034: MI_Speedmeter
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: SM_sedane_LOD1_body
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Alcantara_Black
+    second: {fileID: 2100000, guid: b49764ae8fdb1284c8e3c3b2a81fe70d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Black_Plastic
+    second: {fileID: 2100000, guid: 4f1ecb13320d9824a9cce4b9fc1df16c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_CarPaint_10_Red
+    second: {fileID: 2100000, guid: 2a6710b2d2c520d4385e4856b04dd28b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Car_Bottom
+    second: {fileID: 2100000, guid: 626b0f090cada8045a5e5eee404e663c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Car_Panels
+    second: {fileID: 2100000, guid: 965c512a763982e45ac83c45cd180522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Glass
+    second: {fileID: 2100000, guid: 1d734d14ce927884f9314d3e2bea7160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Glass_Lights
+    second: {fileID: 2100000, guid: 6cd01114e457f274b9d6921a89f07840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Icon
+    second: {fileID: 2100000, guid: 7585e5ea725d4c84a9c36e25089b2c62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Leather_02_Black_Dark
+    second: {fileID: 2100000, guid: 4bd9d27f61047174c908d84903339f69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Leather_07_Tan_Red
+    second: {fileID: 2100000, guid: b7b69ba9fc2444f45a41b71425550662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Metal_Anodized_01_Bright
+    second: {fileID: 2100000, guid: 94fa35177c5f6a746b41a2f8233ee8b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Metal_Anodized_01_Dark
+    second: {fileID: 2100000, guid: 6f040e8a0e8f30c409b845c258f076ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Reflector_Grey
+    second: {fileID: 2100000, guid: 1a6b0580d829aad4b831001158b238b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Reflector_Orange
+    second: {fileID: 2100000, guid: 2ae2f1f2c99caa34a8985e54c0b403ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Reflector_RED
+    second: {fileID: 2100000, guid: c6ced08383b08fe42b7b66cf3492846d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Reflector_RED_Translucent
+    second: {fileID: 2100000, guid: d3a90caba5610164985e7dcba91c6ed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Speedmeter
+    second: {fileID: 2100000, guid: c86532c21e0c00b4ba0d543f31af2965, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_mirror
+    second: {fileID: 2100000, guid: 57cf973d2ec73e447b2ed700bc6f5368, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
